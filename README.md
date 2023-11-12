@@ -52,3 +52,50 @@ Une fois le formulaire validé, l’utilisateur est redirigé vers une page conf
 ![signup-step-2](https://user-images.githubusercontent.com/46068217/282327517-14e0b633-2831-4c86-b503-135dc8653394.png)
 ![signup-step-3](https://user-images.githubusercontent.com/46068217/282327519-759e58ec-7176-45f2-a35b-b419489bd6cd.png)
 ![signup-step-4](https://user-images.githubusercontent.com/46068217/282327520-d029f2ba-aa1b-4b5a-9bf6-042d47c53f18.png)
+
+## Vue onboarding
+TODO
+
+## Avantages de React Native / Expo
+Développement multiplateforme simplifié : Expo et React Native permettent de développer une seule base de code pour les applications iOS et Android, ce qui peut réduire les délais ainsi que les coûts de développement.
+
+Accès aux bibliothèques natives : Ces solutions permettent d’accéder aux fonctionnalités natives des appareils (comme l'appareil photo, le GPS, etc.) en utilisant des modules natifs ou des bibliothèques tierces.
+
+Grande communauté et écosystème : React Native a une grande communauté de développeurs (113k étoiles sur Github), de nombreuses bibliothèques tierces et un grand nombre de ressources en ligne.
+
+## ReactJS / PWA
+Une Progressive Web App (PWA) est une application web qui combine les fonctionnalités des sites web et des applications mobiles natives. Les PWA sont conçues pour offrir une expérience utilisateur optimale sur les navigateurs web des ordinateurs de bureau et des appareils mobiles, tout en permettant une utilisation hors ligne, une installation sur l'écran d'accueil de l'appareil et un accès aux fonctionnalités matérielles, le tout sans nécessiter de téléchargement depuis un app store.
+
+Accessibilité multi-plateforme : Les PWA sont accessibles via un navigateur web sur différentes plateformes (ordinateurs de bureau, smartphones, tablettes). Il n'est pas nécessaire de développer des applications spécifiques pour chaque plateforme.
+
+Installation simplifiée : Les PWA peuvent être installées sur l'écran d'accueil d'un appareil, offrant une expérience proche de celle d'une application native. Cela se fait en un seul clic, sans avoir à passer par un app store.
+
+Réduction des coûts de développement : Le développement d'une PWA unique pour plusieurs plateformes peut réduire les coûts par rapport au développement et au maintient d’une application mobiles et d’un site web en parallèle.
+
+Flexibilité : ReactJS, est une bibliothèque JavaScript populaire (215k étoiles sur Github) qui offre une grande flexibilité en termes de développement d'interfaces utilisateur et de fonctionnalités.
+
+Communauté active : ReactJS a une communauté de développeurs active et de nombreuses bibliothèques tierces qui facilitent le développement et l'ajout de fonctionnalités à un projet React.
+
+## Notification : Firebase Cloud Messaging
+Firebase Cloud Messaging est une solution permettant l’envoi de notifications push sur appareil mobile et web.
+
+Gratuit : FCM est une solution totalement gratuite.
+
+Multiplateforme : FCM prend en charge une variété de plateformes, notamment Android, iOS et le web.
+
+Suivi et analyse des performances : FCM offre des outils de suivi et d'analyse des performances pour vous permettre de mesurer l'efficacité de vos campagnes de notifications push, telles que les taux d'ouverture et de clic.
+
+Sécurité et confidentialité : FCM utilise des connexions sécurisées via HTTPS pour garantir la sécurité des données échangées entre le serveur et les appareils.
+
+Support multi-langues : Vous pouvez envoyer des notifications à la langue de l’utilisateur.
+
+## Authentification par numéro de téléphone mobile : Firebase Auth
+Firebase Authentication fournit des SDK et des bibliothèques d'interface utilisateur prêtes à l'emploi pour authentifier les utilisateurs auprès d’une application.
+
+Intégration simplifié : Firebase Auth peut être intégrée dans des applications mobiles et web grâce à des SDK faciles à utiliser.
+
+Vérification des numéros de téléphone : Firebase Authentication propose l’authentification des utilisateurs par l’envoi de SMS et gère la vérification des numéros de téléphone pour s'assurer qu'ils sont valides.
+
+Suivi des performances et des statistiques : Firebase propose des outils de suivi et d'analyse des performances de l'authentification par SMS, y compris des statistiques sur les taux de réussite et les erreurs d'authentification.
+
+Multiplateforme : Le service est utilisable sur Android, iOS et Web, ce qui permet de proposer une expérience d'authentification cohérente à travers ces différentes plateformes.

@@ -43,3 +43,12 @@ Une fois le formulaire validé, l’utilisateur est redirigé vers une page conf
 ![create-report-step-4](https://user-images.githubusercontent.com/46068217/282327526-f75826ac-548b-4880-954d-fbba05eba69b.png)
 ![create-report-step-5](https://user-images.githubusercontent.com/46068217/282327527-a6541a28-23ee-4048-8dfc-6d9ccafa2ace.png)
 ![create-report-step-6](https://user-images.githubusercontent.com/46068217/282327509-717ea073-a9e7-42cd-bef8-7e8dbb87b934.png)
+
+## Vue profil (paramètres du compte)
+![profile](https://user-images.githubusercontent.com/46068217/282327510-b7051ec8-a75b-4da0-a1e4-4d3564990a3a.png)
+
+## Vue inscription (par numéro de téléphone)
+![signup-step-1](https://user-images.githubusercontent.com/46068217/282327516-bd94f67d-e53a-4836-9aab-9f1567edeb63.png)
+![signup-step-2](https://user-images.githubusercontent.com/46068217/282327517-14e0b633-2831-4c86-b503-135dc8653394.png)
+![signup-step-3](https://user-images.githubusercontent.com/46068217/282327519-759e58ec-7176-45f2-a35b-b419489bd6cd.png)
+![signup-step-4](https://user-images.githubusercontent.com/46068217/282327520-d029f2ba-aa1b-4b5a-9bf6-042d47c53f18.png)
